@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvorra_http.a  CMakeFiles/vorra_http.dir/request_handler.cpp.o
+/usr/bin/ranlib libvorra_http.a
